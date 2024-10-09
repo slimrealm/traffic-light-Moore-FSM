@@ -6,7 +6,7 @@
 // created:
 // last modified by Sam Miller: 10/18/17
 
-/* This example accompanies the book
+/* This project was based on an example in:
    "Embedded Systems: Introduction to ARM Cortex M Microcontrollers",
    ISBN: 978-1469998749, Jonathan Valvano, copyright (c) 2013
    Volume 1 Program 6.8, Example 6.4
